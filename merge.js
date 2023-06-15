@@ -1,3 +1,9 @@
+//Build a function mergeSort that takes in an array and returns a sorted array, using a recursive merge sort methodology.
+
+
+
+
+
 function mergeSort(array) {
   // Base case: if the array has 0 or 1 element, it is already sorted
   if (array.length <= 1) {
